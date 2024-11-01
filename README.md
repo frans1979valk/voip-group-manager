@@ -1,1 +1,1 @@
-# voip-group-manager
+# VoIP Group Manager

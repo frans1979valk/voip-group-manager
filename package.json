@@ -1,0 +1,11 @@
+{
+  "name": "voip-group-manager",
+  "version": "1.0.0",
+  "description": "VoIP Group Manager Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node dev-helper.js"
+  },
+  "dependencies": {}
+}
